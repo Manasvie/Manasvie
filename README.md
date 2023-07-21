@@ -1,6 +1,9 @@
 ### Hi there 👋 I am Manasvi Bagherwal.
-![Open Peeps - Standing](https://github.com/Manasvie/Manasvie/assets/118369715/21d6ec36-9aa3-4b30-ae5f-2521031faddf)
 
+<p align="center">
+  <img width="460" height="300" src="https://blush.design/api/download?shareUri=UcJ-S92eBNF0UZFD&c=Skin_0%7Eedb98a&w=800&h=800&fm=png
+">
+</p>
 
 <!--
 **Manasvie/Manasvie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

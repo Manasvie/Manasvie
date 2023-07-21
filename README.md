@@ -1,4 +1,4 @@
-### Hi there 👋 I am Manasvi Bagherwal
+### Hi there 👋 I am Manasvi Bagherwal.
 
 <!--
 **Manasvie/Manasvie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

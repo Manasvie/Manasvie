@@ -6,7 +6,7 @@
     <img width="100" src="https://github.com/Manasvie/Manasvie/assets/118369715/9260497f-8d37-4aa3-9aa2-ba61006420a7" alt="Material Bread logo">
 </p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=manasvie&label=Visitors&color=09476f&style=flat" alt="manasvie" /> 

@@ -8,6 +8,19 @@
 
 <h3 align="center">A passionate software developer from India</h3>
 
+<p align="center">
+- 🔭 I’m currently working on enhancing my skills
+</p>
+<p align="center">
+- 🌱 I’m currently learning JavaScript frameworks
+</p>
+<p align="center">
+- 👯 I’m looking to collaborate on all things design and development
+</p>
+<p align="center">
+- ⚡ Fun fact: I am humorous 😄
+</p>
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=manasvie&label=Visitors&color=09476f&style=flat" alt="manasvie" /> 
 </p>

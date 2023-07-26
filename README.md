@@ -9,7 +9,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="center">
-- 🔭 I’m currently working on enhancing my skills
+- 🔭 I’m currently working on enhancing my skills.
 </p>
 <p align="center">
 - 🌱 I’m currently learning JavaScript frameworks

@@ -1,6 +1,9 @@
 <h1 align="center">
-  Hi there 👋 I am Manasvi Bagherwal.
-</h1>  
+  Hi there 👋
+</h1>
+<h2 align="center">
+  I am Manasvi Bagherwal.
+</h2>  
 
 <p align="center">
     <img width="100" src="https://github.com/Manasvie/Manasvie/assets/118369715/9260497f-8d37-4aa3-9aa2-ba61006420a7" alt="Material Bread logo">

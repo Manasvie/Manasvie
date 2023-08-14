@@ -25,7 +25,6 @@
 </p>
 
 
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=manasvie&label=Visitors&color=09476f&style=flat" alt="manasvie" /> 
 </p>
@@ -33,13 +32,13 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/manieieia" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manieieia" height="30" width="40" />
+  <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="manieieia" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manasvi-bagherwal/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manasvi-bagherwal/" height="30" width="40" />
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="in/manasvi-bagherwal/" height="30" width="40" />
 </a>
 <a href="https://discord.gg/manie_37" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="manie_37" height="30" width="40" />
+  <img align="center" src="https://skillicons.dev/icons?i=discord" alt="manie_37" height="30" width="40" />
 </a>
 </p>
 

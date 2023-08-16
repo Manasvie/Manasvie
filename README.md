@@ -34,7 +34,7 @@
 <a href="https://twitter.com/manieieia" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="manieieia" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manasvi-bagherwal/" target="blank">
+<a href="https://www.linkedin.com/in/manasvi-bagherwal/" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="in/manasvi-bagherwal/" height="30" width="40" />
 </a>
 <a href="https://discord.gg/manie_37" target="blank">

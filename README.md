@@ -49,11 +49,24 @@
 	</a>
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasvie&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="manasvie" /></p>
+<br/>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manasvie&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="manasvie" />
+</p>
+
 <!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasvie&show_icons=true&locale=en" alt="manasvie" /></p>
+ <img src="https://github-readme-stats.vercel.app/api?username=manasvie&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="manasvie" />
+
+ <img src="https://github-readme-streak-stats.herokuapp.com/?
+username=manasvie&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="manasvie" />
+</p>
+
 <!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manasvie&" alt="manasvie" /></p>
+<p>&nbsp;
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasvie&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&locale=en" alt="manasvie" /></p>
+
+<p>&nbsp;
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manasvie&&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000" alt="manasvie" /></p>
 
 <!--
 **Manasvie/Manasvie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

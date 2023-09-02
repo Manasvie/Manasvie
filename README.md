@@ -15,7 +15,7 @@
 
 <!-- POINTS -->
 <p align="center">
-- 🔭 I’m currently working on enhancing my skills.
+- 🔭 I’m currently working on enhancing my skills
 </p>
 <p align="center">
 - 🌱 I’m currently learning JavaScript frameworks

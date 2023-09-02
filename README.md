@@ -11,7 +11,7 @@
 </p> -->
 
 <p align="center">
-    <img src="https://github.com/Manasvie/Manasvie/assets/118369715/38abc164-cfcc-4362-9bd5-4110af1e1334" alt="Github Introduction Banner">
+    <img src="https://github.com/Manasvie/Manasvie/assets/118369715/2a45f349-3408-439e-a3bf-5e6701b3e358" alt="Github Introduction Banner">
 
 <!-- HEADING -->
 <h3 align="center">A passionate software developer from India</h3>

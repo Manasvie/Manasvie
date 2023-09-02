@@ -1,5 +1,5 @@
 <!-- WELCOME TO MY GITHUB PROFILE -->
-<h4 align="center">Welcome To My GitHub Profile 👋</h4>
+<h4 align="center"> :blossom: Welcome To My GitHub Profile :blossom: </h4>
 
 <!-- BANNER -->
 <p align="center">

@@ -54,6 +54,10 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manasvie&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="manasvie" />
 </p>
 
+| Stats    | Streak    |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=manasvie&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="manasvie" /> | <img src="https://github-readme-streak-stats.vercel.app/api?username=manasvie&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="manasvie" /> | 
+
 <!--
  <img src="https://github-readme-stats.vercel.app/api?username=manasvie&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="manasvie" />
 

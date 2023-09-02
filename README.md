@@ -7,7 +7,7 @@
 </p>
 
 <!-- HEADING -->
-<h3 align="center">A Passionate Software Developer From India</h3>
+<h3 align="center"> :computer: A Passionate Software Developer From India :computer: </h3>
 
 <!-- POINTS -->
 <p align="center">

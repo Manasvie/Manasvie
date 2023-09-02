@@ -1,14 +1,17 @@
-<h1 align="center">
+<!-- <h1 align="center">
   Hi there 👋
 </h1>
 <h2 align="center">
   I am Manasvi Bagherwal.
-</h2>  
+</h2> --> 
 
-<!-- IMAGE -->
+<!-- IMAGE 
 <p align="center">
     <img width="100" src="https://github.com/Manasvie/Manasvie/assets/118369715/9260497f-8d37-4aa3-9aa2-ba61006420a7" alt="Material Bread logo">
-</p>
+</p> -->
+
+<p align="center">
+    <img src="https://github.com/Manasvie/Manasvie/assets/118369715/38abc164-cfcc-4362-9bd5-4110af1e1334" alt="Github Introduction Banner">
 
 <!-- HEADING -->
 <h3 align="center">A passionate software developer from India</h3>

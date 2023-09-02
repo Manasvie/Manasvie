@@ -1,20 +1,13 @@
-<!-- <h1 align="center">
-  Hi there 👋
-</h1>
-<h2 align="center">
-  I am Manasvi Bagherwal.
-</h2> --> 
+<!-- WELCOME TO MY GITHUB PROFILE -->
+<h4 align="center">Welcome To My GitHub Profile 👋</h4>
 
-<!-- IMAGE 
-<p align="center">
-    <img width="100" src="https://github.com/Manasvie/Manasvie/assets/118369715/9260497f-8d37-4aa3-9aa2-ba61006420a7" alt="Material Bread logo">
-</p> -->
-
+<!-- BANNER -->
 <p align="center">
     <img src="https://github.com/Manasvie/Manasvie/assets/118369715/2a45f349-3408-439e-a3bf-5e6701b3e358" alt="Github Introduction Banner">
+</p>
 
 <!-- HEADING -->
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A Passionate Software Developer From India</h3>
 
 <!-- POINTS -->
 <p align="center">
@@ -60,10 +53,10 @@
 <!-- GITHUB STATS -->
 <br/>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manasvie&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="manasvie" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manasvie&title_color=56A076&icon_color=CC5160&text_color=8FD8C6&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="manasvie" />
 </p>
 
 <!-- STATS TABLE -->
 | Stats | Streak |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=manasvie&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="manasvie" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasvie&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="manasvie" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=manasvie&title_color=56A076&icon_color=56A076&text_color=8FD8C6&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="manasvie" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasvie&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&locale=en&layout=compact&theme=dark" alt="manasvie" /> |

@@ -11,16 +11,16 @@
 
 <!-- POINTS -->
 <p align="center">
-- 🔭 I’m currently working on enhancing my skills
+🔭 I’m currently working on enhancing my skills
 </p>
 <p align="center">
-- 🌱 I’m currently learning JavaScript frameworks
+🌱 I’m currently learning JavaScript frameworks
 </p>
 <p align="center">
-- 👯 I’m looking to collaborate on all things design and development
+👯 I’m looking to collaborate on all things design and development
 </p>
 <p align="center">
-- ⚡ Fun fact: I am humorous 😄
+⚡ Fun fact: I am humorous 😄
 </p>
 
 <!-- VISITORS COUNT -->

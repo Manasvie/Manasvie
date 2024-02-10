@@ -29,7 +29,13 @@
 </p>
 
 <!-- CONNECT -->
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">
+
+````diff
++ Connect with me: +
+````
+
+</h3>
 <p align="center">
 <a href="https://twitter.com/manieieia" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="manieieia" height="30" width="40" />
@@ -43,7 +49,13 @@
 </p>
 
 <!-- TECH STACK -->
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">
+	
+````diff	
++ Languages and Tools: +
+````
+
+</h3>
 <div align="center">
   	<a href="https://skillicons.dev">
     	<img src="https://skillicons.dev/icons?i=figma,xd,vscode,vercel,fastapi,flask,py,mongodb,express,react,nodejs,postman,js,html,css,bootstrap,mysql,java,github,git,c,cpp&perline=50&theme=dark" />

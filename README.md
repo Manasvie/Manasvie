@@ -76,11 +76,3 @@
 | Stats | Streak |
 | :---: | :---: |
 | <img src="https://github-readme-stats.vercel.app/api?username=manasvie&title_color=56A076&icon_color=56A076&text_color=8FD8C6&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="manasvie" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasvie&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&locale=en&layout=compact&theme=gotham" alt="manasvie" /> |
-
-<!-- OLD HEADING -->
-<!-- <h3 align="center"> :computer: A Passionate Software Developer From India :computer: </h3> -->
-<!-- <h1 align="center">
-  	<a href="https://git.io/typing-svg">
-    	<img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate+Software+Developer+From+India;I+am+learning+python&center=true&size=16&duration=2000&pause=6000000&color=259076:f75c7e&font=Open+Sans">
-	</a>
-</h1> -->

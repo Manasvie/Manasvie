@@ -29,7 +29,7 @@
 
 <!-- VISITORS COUNT -->
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=manasvie&label=Visitors&color=09476f&style=flat" alt="manasvie" /> 
+  <img src="https://komarev.com/ghpvc/?username=manasvie&label=Visitors&color=dfb2b2&style=for-the-badge" alt="manasvie" /> 
 </p>
 
 <!-- CONNECT -->

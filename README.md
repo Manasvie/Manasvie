@@ -13,6 +13,9 @@
 	</a>
 </h1>
 
+<!-- LINE 1 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- POINTS -->
 <p align="center">
 🔭 I’m currently working on enhancing my skills
@@ -59,12 +62,18 @@
 + Languages and Tools: +
 ````
 
+<!-- LINE 2 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </h3>
 <div align="center">
   	<a href="https://skillicons.dev">
     	<img src="https://skillicons.dev/icons?i=figma,xd,vscode,vercel,fastapi,flask,py,mongodb,express,react,nodejs,postman,js,html,css,bootstrap,mysql,java,spring,github,git,c,cpp&perline=50&theme=dark" />
 	</a>
 </div>
+
+<!-- LINE 3 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GITHUB STATS -->
 <br/>

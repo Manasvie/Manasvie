@@ -68,7 +68,7 @@
 </h3>
 <div align="center">
   	<a href="https://skillicons.dev">
-    	<img src="https://skillicons.dev/icons?i=figma,xd,vscode,idea,vercel,fastapi,flask,py,mongodb,express,react,nodejs,postman,js,html,css,bootstrap,mysql,java,spring,github,git,c,cpp&perline=50&theme=dark" />
+    	<img src="https://skillicons.dev/icons?i=figma,xd,vscode,idea,vercel,fastapi,flask,ruby,rails,py,mongodb,redis,express,react,nodejs,postman,js,html,css,bootstrap,mysql,postgres,java,spring,github,git,c,cpp&perline=50&theme=dark" />
 	</a>
 </div>
 
